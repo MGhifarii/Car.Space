@@ -1,0 +1,17 @@
+PREFIX id: <https://carspace.com/mobil>
+PREFIX k: <https://carspace.com/mobil/komponen#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?nama ?merek ?jenisMobil ?kapasitasMesin ?tenaga ?bahanBakar ?harga ?tempatDuduk 
+WHERE
+{ 
+    ?items
+        k:nama                  ?nama;
+        k:merek                 ?merek;
+        k:jenisMobil            ?jenisMobil;
+        k:kapasitasMesin        ?kapasitasMesin;
+        k:tenaga                ?tenaga;  
+        k:bahanBakar            ?bahanBakar;
+        k:harga                 ?harga;
+        k:tempatDuduk           ?tempatDuduk.
+}

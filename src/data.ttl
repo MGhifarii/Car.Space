@@ -1,0 +1,183 @@
+@prefix id: <https://carspace.com/mobil#>.
+@prefix k: <https://carspace.com/mobil/komponen#>.
+
+
+id:001      k:nama                  "Civic";
+            k:merek                 "Honda";
+            k:jenisMobil            "Hatchback";
+            k:kapasitasMesin        "1498 cc";
+            k:tenaga                "171 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "500 Juta";
+            k:tempatDuduk           "5".
+
+id:002      k:nama                  "Cr-V";
+            k:merek                 "Honda";
+            k:jenisMobil            "SUV";
+            k:kapasitasMesin        "1500 cc";
+            k:tenaga                "155 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "590 Juta";
+            k:tempatDuduk           "7".
+
+id:003      k:nama                  "Brio";
+            k:merek                 "Honda";
+            k:jenisMobil            "LCGC";
+            k:kapasitasMesin        "1199 cc";
+            k:tenaga                "90 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "155 Juta";
+            k:tempatDuduk           "5".
+
+id:004      k:nama                  "Pajero Sport";
+            k:merek                 "Mitsubishi";
+            k:jenisMobil            "SUV";
+            k:kapasitasMesin        "2442 cc";
+            k:tenaga                "136 hp";       
+            k:bahanBakar            "Diesel";
+            k:harga                 "554 Juta";
+            k:tempatDuduk           "7".
+
+id:005      k:nama                  "Outlander Sport";
+            k:merek                 "Mitsubishi";
+            k:jenisMobil            "SUV ";
+            k:kapasitasMesin        "2000 cc";
+            k:tenaga                "150 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "338 Juta";
+            k:tempatDuduk           "5".
+
+id:006      k:nama                  "Xpander";
+            k:merek                 "Mitsubishi";
+            k:jenisMobil            "SUV";
+            k:kapasitasMesin        "1499 cc";
+            k:tenaga                "105 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "253 Juta";
+            k:tempatDuduk           "7".
+
+id:007      k:nama                  "86";
+            k:merek                 "Toyota";
+            k:jenisMobil            "Coupe";
+            k:kapasitasMesin        "1998 cc";
+            k:tenaga                "147 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "839 Juta";
+            k:tempatDuduk           "4".
+
+id:008      k:nama                  "Alphard";
+            k:merek                 "Toyota";
+            k:jenisMobil            "MPV";
+            k:kapasitasMesin        "2494 cc";
+            k:tenaga                "180 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "1.5 Milyar";
+            k:tempatDuduk           "7".
+
+id:009      k:nama                  "Avanza";
+            k:merek                 "Toyota";
+            k:jenisMobil            "MPV";
+            k:kapasitasMesin        "1500 cc";
+            k:tenaga                "98 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "255 Juta";
+            k:tempatDuduk           "7".
+
+id:010      k:nama                  "Camry";
+            k:merek                 "Toyota";
+            k:jenisMobil            "Sedan";
+            k:kapasitasMesin        "2500 cc";
+            k:tenaga                "180 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "682 Juta";
+            k:tempatDuduk           "5".
+
+id:011      k:nama                  "Fortuner";
+            k:merek                 "Toyota";
+            k:jenisMobil            "SUV";
+            k:kapasitasMesin        "2400 cc";
+            k:tenaga                "149 hp";       
+            k:bahanBakar            "Diesel";
+            k:harga                 "530 Juta";
+            k:tempatDuduk           "7".
+
+id:012      k:nama                  "Supra";
+            k:merek                 "Toyota";
+            k:jenisMobil            "Coupe";
+            k:kapasitasMesin        "2998 cc";
+            k:tenaga                "387 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "2.1 Milyar";
+            k:tempatDuduk           "2".
+
+id:013      k:nama                  "Lm-350";
+            k:merek                 "Lexus";
+            k:jenisMobil            "MPV";
+            k:kapasitasMesin        "3456 cc";
+            k:tenaga                "297 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "2.3 Milyar";
+            k:tempatDuduk           "4".
+
+id:014      k:nama                  "LS 500h";
+            k:merek                 "Lexus";
+            k:jenisMobil            "Sedan";
+            k:kapasitasMesin        "3456 cc";
+            k:tenaga                "354 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "4.5 Milyar";
+            k:tempatDuduk           "5".
+
+id:015      k:nama                  "Picanto";
+            k:merek                 "Kia";
+            k:jenisMobil            "LCGC";
+            k:kapasitasMesin        "1248 cc";
+            k:tenaga                "87 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "221 Juta";
+            k:tempatDuduk           "4".
+
+id:016      k:nama                  "M4";
+            k:merek                 "BMW";
+            k:jenisMobil            "Coupe";
+            k:kapasitasMesin        "2993 cc";
+            k:tenaga                "510 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "2.1 Milyar";
+            k:tempatDuduk           "4".
+
+id:017      k:nama                  "X1";
+            k:merek                 "BMW";
+            k:jenisMobil            "SUV";
+            k:kapasitasMesin        "1449 cc";
+            k:tenaga                "140 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "737 Juta";
+            k:tempatDuduk           "5".
+
+id:018      k:nama                  "Livina";
+            k:merek                 "Nissan";
+            k:jenisMobil            "MPV";
+            k:kapasitasMesin        "1499 cc";
+            k:tenaga                "104 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "254 Juta";
+            k:tempatDuduk           "7".
+
+id:019      k:nama                  "Serena";
+            k:merek                 "Nissan";
+            k:jenisMobil            "MPV";
+            k:kapasitasMesin        "1997 cc";
+            k:tenaga                "150 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "456 Juta";
+            k:tempatDuduk           "7".
+
+id:020      k:nama                  "A 200";
+            k:merek                 "Mercedes-benz";
+            k:jenisMobil            "Sedan";
+            k:kapasitasMesin        "1332 cc";
+            k:tenaga                "163 hp";       
+            k:bahanBakar            "Bensin";
+            k:harga                 "820 Juta";
+            k:tempatDuduk           "5".
